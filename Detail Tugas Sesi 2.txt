@@ -1,0 +1,20 @@
+Tugas Sesi 2: 
+
+1. Buatlah testcase dan bug report pada website http://belajar-bareng.onrender.com/
+(Scope: Login, dan Add User)
+
+2. Buatlah test planning pada website
+website http://belajar-bareng.onrender.com/ (Scope: Login, dan Add User)
+
+*Requirement 
+Requirement Fungsi Add User:
+1. Username dan Age mandatory Field
+2. Inputan Username adalah text,
+3. Inputan Age adalah angka,
+	3.1 Age tidak boleh kurang dari 0
+4. Username harus bersifat unik (tidak boleh sama)
+
+Requirement Fungsi Login:
+1. Username dan Password mandatory Field
+2. Jika input salah Password muncul error message
+
